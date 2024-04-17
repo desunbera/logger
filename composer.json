@@ -3,6 +3,7 @@
     "description": "A simple log library",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Desun\\Logger\\": "src/"
